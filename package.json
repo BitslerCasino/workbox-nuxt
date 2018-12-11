@@ -1,0 +1,19 @@
+{
+  "name": "@bitlster/workbox-nuxt",
+  "version": "1.0.0",
+  "description": "workbox nuxt module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:BitslerCasino/workbox-nuxt.git",
+  "author": "Uni Sayo <unibtc@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hash-sum": "^1.0.2",
+    "lodash.defaultsdeep": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "workbox-build": "^3.6.3"
+  }
+}
