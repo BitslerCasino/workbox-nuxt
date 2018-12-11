@@ -1,5 +1,5 @@
 {
-  "name": "@bitlster/workbox-nuxt",
+  "name": "@bitsler/workbox-nuxt",
   "version": "1.0.1",
   "description": "workbox nuxt module",
   "publishConfig": {
